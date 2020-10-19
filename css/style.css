@@ -1,0 +1,143 @@
+/* font-family: 'Playfair Display', serif; */
+
+.navbar{
+    padding: 20px 0;
+}
+.nav-item{
+    color: #626262;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-family: 'Playfair Display', serif;
+
+}
+.wd{
+    width: 90%;
+    margin: auto;
+}
+.col-md-12{
+    margin: 30px 0;
+}
+.col-md-12 h1{
+    text-transform: capitalize;
+    font-size: 30px;
+    color: #626262;
+    margin-bottom: 30px;  
+    font-family: 'Playfair Display', serif;
+}
+.col-md-12 h6{
+    color: #b4ad9e;
+    font-size: 14px;
+    text-transform: uppercase;
+    margin-bottom: 20px; 
+    font-family: 'Playfair Display', serif;
+
+}
+.col-md-12 p{
+    color: #626262;
+    font-size: 14px;
+    margin: bottom 20px;
+    margin-bottom: 20px;
+    font-family: 'Playfair Display', serif;
+
+}
+.col-md-6 h6{
+     font-size: 14px;
+     text-transform: uppercase;
+     color: #b4ad9e;
+     margin: 15px 0;
+     font-family: 'Playfair Display', serif;
+}
+.col-md-6 h1{
+    font-size: 30px;
+
+    color: #626262;
+
+    margin-bottom: 15px;
+
+    text-transform: capitalize;
+
+    font-family: 'Playfair Display', serif;
+
+}
+.col-md-6 p{
+    font-size: 14px;
+
+    color: #626262;
+
+    line-height: 1.5;
+
+    letter-spacing: 1px;
+
+    font-family: 'Playfair Display', serif;
+    
+}
+
+
+
+.newsletter{
+    height: 200px;
+    background-color: #f0f0f0;
+    margin: 50px 0;
+    text-align: center;
+    position: relative;
+    
+}
+
+.newsletter h1{
+    font-size: 30px;
+    margin-top: 20px;
+    text-transform: capitalize;
+    color: #626262;
+    padding-bottom: 70px;
+    
+    font-family: 'Playfair Display', serif;
+
+}
+.newsletter input{
+    border: none;
+    
+    background: transparent;
+    border-bottom: 1px solid #000;
+    width: 100%;
+    outline: none;
+}
+,.newsletter input::placeholder{
+    font-size: 14px;
+    width: 30%;
+    color: #626262;
+    text-transform: capitalize;
+    font-family: 'Playfair Display', serif;
+}
+.icon{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    
+}
+button{
+    text-transform: none;
+    background: none;
+    margin: 100px 0; 
+    font-family: 'Playfair Display', serif; 
+    
+}
+
+
+.container-fulid{
+    background-color:  #f0f0f0;
+    height: 100px;
+}
+
+.container-fulid ul{
+    
+    list-style: none;
+    display: flex;
+    margin: 40px 0;
+    font-size: 14px;
+    justify-content: space-between;
+    text-transform: capitalize;
+    font-family: 'Playfair Display', serif;
+
+}
+
